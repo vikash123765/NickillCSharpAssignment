@@ -1,0 +1,7 @@
+C:\Users\vikas\source\repos\NickillAssignment\NickillAssignment\bin\Debug\NickillAssignment.exe.config
+C:\Users\vikas\source\repos\NickillAssignment\NickillAssignment\bin\Debug\NickillAssignment.exe
+C:\Users\vikas\source\repos\NickillAssignment\NickillAssignment\bin\Debug\NickillAssignment.pdb
+C:\Users\vikas\source\repos\NickillAssignment\NickillAssignment\obj\Debug\NickillAssignment.csproj.AssemblyReference.cache
+C:\Users\vikas\source\repos\NickillAssignment\NickillAssignment\obj\Debug\NickillAssignment.csproj.CoreCompileInputs.cache
+C:\Users\vikas\source\repos\NickillAssignment\NickillAssignment\obj\Debug\NickillAssignment.exe
+C:\Users\vikas\source\repos\NickillAssignment\NickillAssignment\obj\Debug\NickillAssignment.pdb

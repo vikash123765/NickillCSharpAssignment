@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vikas\\source\\repos\\NickillAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10CAC812-E9DC-45F9-A34F-9EBF5B5CDB25}|NickillAssignment\\NickillAssignment.csproj|c:\\users\\vikas\\source\\repos\\nickillassignment\\nickillassignment\\medborgare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CAC812-E9DC-45F9-A34F-9EBF5B5CDB25}|NickillAssignment\\NickillAssignment.csproj|solutionrelative:nickillassignment\\medborgare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CAC812-E9DC-45F9-A34F-9EBF5B5CDB25}|NickillAssignment\\NickillAssignment.csproj|c:\\users\\vikas\\source\\repos\\nickillassignment\\nickillassignment\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CAC812-E9DC-45F9-A34F-9EBF5B5CDB25}|NickillAssignment\\NickillAssignment.csproj|solutionrelative:nickillassignment\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CAC812-E9DC-45F9-A34F-9EBF5B5CDB25}|NickillAssignment\\NickillAssignment.csproj|c:\\users\\vikas\\source\\repos\\nickillassignment\\nickillassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CAC812-E9DC-45F9-A34F-9EBF5B5CDB25}|NickillAssignment\\NickillAssignment.csproj|solutionrelative:nickillassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CAC812-E9DC-45F9-A34F-9EBF5B5CDB25}|NickillAssignment\\NickillAssignment.csproj|c:\\users\\vikas\\source\\repos\\nickillassignment\\nickillassignment\\tjuv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CAC812-E9DC-45F9-A34F-9EBF5B5CDB25}|NickillAssignment\\NickillAssignment.csproj|solutionrelative:nickillassignment\\tjuv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CAC812-E9DC-45F9-A34F-9EBF5B5CDB25}|NickillAssignment\\NickillAssignment.csproj|c:\\users\\vikas\\source\\repos\\nickillassignment\\nickillassignment\\staden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CAC812-E9DC-45F9-A34F-9EBF5B5CDB25}|NickillAssignment\\NickillAssignment.csproj|solutionrelative:nickillassignment\\staden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CAC812-E9DC-45F9-A34F-9EBF5B5CDB25}|NickillAssignment\\NickillAssignment.csproj|c:\\users\\vikas\\source\\repos\\nickillassignment\\nickillassignment\\sak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CAC812-E9DC-45F9-A34F-9EBF5B5CDB25}|NickillAssignment\\NickillAssignment.csproj|solutionrelative:nickillassignment\\sak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sak.cs",
+              "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\NickillAssignment\\NickillAssignment\\Sak.cs",
+              "RelativeDocumentMoniker": "NickillAssignment\\Sak.cs",
+              "ToolTip": "C:\\Users\\vikas\\source\\repos\\NickillAssignment\\NickillAssignment\\Sak.cs",
+              "RelativeToolTip": "NickillAssignment\\Sak.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T00:37:51.524Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Staden.cs",
+              "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\NickillAssignment\\NickillAssignment\\Staden.cs",
+              "RelativeDocumentMoniker": "NickillAssignment\\Staden.cs",
+              "ToolTip": "C:\\Users\\vikas\\source\\repos\\NickillAssignment\\NickillAssignment\\Staden.cs",
+              "RelativeToolTip": "NickillAssignment\\Staden.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAACQAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T20:29:22.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MedBorgare.cs",
+              "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\NickillAssignment\\NickillAssignment\\MedBorgare.cs",
+              "RelativeDocumentMoniker": "NickillAssignment\\MedBorgare.cs",
+              "ToolTip": "C:\\Users\\vikas\\source\\repos\\NickillAssignment\\NickillAssignment\\MedBorgare.cs",
+              "RelativeToolTip": "NickillAssignment\\MedBorgare.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwC4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T19:06:32.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\NickillAssignment\\NickillAssignment\\Person.cs",
+              "RelativeDocumentMoniker": "NickillAssignment\\Person.cs",
+              "ToolTip": "C:\\Users\\vikas\\source\\repos\\NickillAssignment\\NickillAssignment\\Person.cs",
+              "RelativeToolTip": "NickillAssignment\\Person.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T19:04:20.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tjuv.cs",
+              "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\NickillAssignment\\NickillAssignment\\Tjuv.cs",
+              "RelativeDocumentMoniker": "NickillAssignment\\Tjuv.cs",
+              "ToolTip": "C:\\Users\\vikas\\source\\repos\\NickillAssignment\\NickillAssignment\\Tjuv.cs",
+              "RelativeToolTip": "NickillAssignment\\Tjuv.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T19:05:32.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\NickillAssignment\\NickillAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "NickillAssignment\\Program.cs",
+              "ToolTip": "C:\\Users\\vikas\\source\\repos\\NickillAssignment\\NickillAssignment\\Program.cs",
+              "RelativeToolTip": "NickillAssignment\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T19:03:32.117Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
