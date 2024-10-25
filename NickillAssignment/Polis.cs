@@ -21,8 +21,7 @@ namespace NickillAssignment
 
         public override void Interact(Person other)
         {
-            Console.WriteLine(other);
-            Console.WriteLine("Polis interaction triggered");
+
 
             if (other is NickillAssignment.Tjuv tjuv)
             {
@@ -35,14 +34,17 @@ namespace NickillAssignment
                 Polis.numOfTimesTheifGotCaught++;
                 tjuv.Inventory.Clear();  // Clear thief's inventory
                 Console.WriteLine("Polisen tar tjuven och beslagtar allt stöldgods.");
+                Console.ReadKey();
             }
             else if (other is NickillAssignment.MedBorgare)
             {
                 Console.WriteLine("Interaction with a MedBorgare detected! Nothing happens.");
+                Console.ReadKey();
             }
             else if (other is NickillAssignment.Polis)
             {
                 Console.WriteLine("Polis mötte Polis inget händer!");
+                Console.ReadKey();
 
 
             }
@@ -51,7 +53,8 @@ namespace NickillAssignment
                 Console.WriteLine("Interaction with an unknown type detected.");
                 Console.WriteLine($"other = {other.GetType()} is not equal to {typeof(Tjuv)}.");
                 Console.WriteLine($"other = {other.GetType()} is not equal to {typeof(MedBorgare)}.");
-               
+                Console.ReadKey();
+
             }
         }
 

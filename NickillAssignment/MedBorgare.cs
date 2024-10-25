@@ -20,13 +20,7 @@ namespace NickillAssignment
         public MedBorgare(int x, int y) : base(x, y)
         {
 
-            // Medborgaren har alltid samma tillhörigheter
-
-           // List<String> itemsList = new List<String>();
-           // itemsList.Add("Nycklar");
-            //itemsList.Add("Mobiltelefon");
-            //itemsList.Add("Pengar");
-            //itemsList.Add("Klocka");
+    
             Inventory.Add(new Sak("Nycklar"));
             Inventory.Add(new Sak("Mobiltelefon"));
             Inventory.Add(new Sak("Pengar"));
@@ -36,12 +30,11 @@ namespace NickillAssignment
 
         public override void Interact(Person other)
         {
-            Console.WriteLine(other);
-            Console.WriteLine("MedBorgare interaction triggered");
+          
 
             if (other is NickillAssignment.Tjuv tjuv)
             {
-                Console.WriteLine("Interaction with a Tjuv detected!");
+               
 
                 if (Inventory.Count > 0)
                 {
@@ -51,15 +44,18 @@ namespace NickillAssignment
                     tjuv.Inventory.Add(item);
                     Console.WriteLine($"Tjuven rånar medborgaren på {item}");
                     numOfTimesRobbed++;
+                    Console.ReadKey();
                 }
             }
             else if (other is NickillAssignment.Polis)
             {
                 Console.WriteLine("Interaction with a Polis detected! Medborgaren möter polisen, inget händer.");
+                Console.ReadKey();
             }
             else if (other is NickillAssignment.MedBorgare)
             {
                 Console.WriteLine("Medborage  mötte medborgare inget händer!");
+                Console.ReadKey();
 
 
             }
@@ -67,9 +63,7 @@ namespace NickillAssignment
             else
             {
                 Console.WriteLine("Interaction with an unknown type detected.");
-                Console.WriteLine($"other = {other.GetType()} is not equal to {typeof(Polis)}.");
-
-                Console.WriteLine($"other = {other.GetType()} is not equal to {typeof(Tjuv)}.");
+                Console.ReadKey();
 
             }
         }

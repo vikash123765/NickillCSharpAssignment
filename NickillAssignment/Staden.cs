@@ -20,40 +20,64 @@ namespace NickillAssignment
             this.height = height;
             this.persons = persons;
         }
+       
+        
         public void RunSimulation()
-        {
-            while (isRunning)
-            {
-                foreach (var person in persons)
-                {
-                    person.Move(width, height);
-                    Console.WriteLine($"{person.GetType().Name} moved to ({person.X}, {person.Y})");
-                }
+{
+       int iterationCount = 0;
+         var interactionPairs = new HashSet<(int, int)>(); // Track active interactions as unique pairs
 
-                for (int i = 0; i < persons.Count; i++)
+
+         while (isRunning)
+          { 
+                Console.Clear(); 
+
+       
+                foreach (var person in persons)
+        {
+            person.Move(width, height);
+        }
+
+        for (int i = 0; i < persons.Count; i++)
+        {
+            for (int j = i + 1; j < persons.Count; j++)
+            {
+                // Check if two people meet (i.e., same coordinates)
+                if (persons[i].X == persons[j].X && persons[i].Y == persons[j].Y)
                 {
-                    for (int j = i + 1; j < persons.Count; j++)
+                    var pair = (Math.Min(i, j), Math.Max(i, j)); // Ensure pairs are consistent (e.g., (2,3) and (3,2) are treated the same)
+
+                    // If the interaction is new, trigger it and add to the interactionPairs set
+                    if (!interactionPairs.Contains(pair))
                     {
-                        // Check if two people meet (i.e., same coordinates)
-                        if (persons[i].X == persons[j].X && persons[i].Y == persons[j].Y)
-                        {
-                            // Trigger interaction between them
-                            Console.WriteLine($"{persons[i].GetType().Name} met {persons[j].GetType().Name} at ({persons[i].X}, {persons[i].Y})");
-              
-                            persons[i].Interact(persons[j]);  // i interacts with j
-                        
-                        }
+                        persons[i].Interact(persons[j]);
+                        interactionPairs.Add(pair);
+
+               
                     }
                 }
-                // Draw the city grid and display stats periodically
-                DrawCity();
-                Console.WriteLine($"Antal rånade medborgare: {MedBorgare.numOfTimesRobbed}");
-                Console.WriteLine($"Antal gripna tjuvar: {Polis.numOfTimesTheifGotCaught}");
-
-                Thread.Sleep(500);
+                else
+                {
+                    // If no longer meeting, remove the pair from active interactions
+                    var pair = (Math.Min(i, j), Math.Max(i, j));
+                    interactionPairs.Remove(pair);
+                }
             }
         }
 
+        // Draw the city grid and display stats periodically
+        DrawCity();
+
+      
+            Console.WriteLine($"Antal rånade medborgare: {MedBorgare.numOfTimesRobbed}");
+            Console.WriteLine($"Antal gripna tjuvar: {Polis.numOfTimesTheifGotCaught}");
+        
+    
+        iterationCount++;
+        Thread.Sleep(500);
+    }
+       Console.ReadKey();
+}
 
 
         public void StopSimulation()
@@ -67,7 +91,7 @@ namespace NickillAssignment
 
             foreach (var person in persons)
             {
-                Console.WriteLine($"{person.GetType().Name} is at ({person.X}, {person.Y})");
+                
                 if (person is Polis)
                     grid[person.Y, person.X] = 'P';
                 else if (person is Tjuv)
@@ -81,7 +105,7 @@ namespace NickillAssignment
                 for (int x = 0; x < width; x++)
                 {
                     if (grid[y, x] == '\0')
-                        Console.Write(".");
+                        Console.Write(" ");
                     else
                         Console.Write(grid[y, x]);
                 }

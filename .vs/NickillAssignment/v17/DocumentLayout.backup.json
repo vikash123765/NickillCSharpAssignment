@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\vikas\\source\\repos\\NickillAssignment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{10CAC812-E9DC-45F9-A34F-9EBF5B5CDB25}|NickillAssignment\\NickillAssignment.csproj|c:\\users\\vikas\\source\\repos\\nickillassignment\\nickillassignment\\medborgare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10CAC812-E9DC-45F9-A34F-9EBF5B5CDB25}|NickillAssignment\\NickillAssignment.csproj|solutionrelative:nickillassignment\\medborgare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vikas\\source\\repos\\NickillAssignment\\NickillAssignment\\Staden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NickillAssignment\\Staden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10CAC812-E9DC-45F9-A34F-9EBF5B5CDB25}|NickillAssignment\\NickillAssignment.csproj|c:\\users\\vikas\\source\\repos\\nickillassignment\\nickillassignment\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10CAC812-E9DC-45F9-A34F-9EBF5B5CDB25}|NickillAssignment\\NickillAssignment.csproj|solutionrelative:nickillassignment\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vikas\\source\\repos\\NickillAssignment\\NickillAssignment\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NickillAssignment\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10CAC812-E9DC-45F9-A34F-9EBF5B5CDB25}|NickillAssignment\\NickillAssignment.csproj|c:\\users\\vikas\\source\\repos\\nickillassignment\\nickillassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10CAC812-E9DC-45F9-A34F-9EBF5B5CDB25}|NickillAssignment\\NickillAssignment.csproj|solutionrelative:nickillassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vikas\\source\\repos\\NickillAssignment\\NickillAssignment\\Tjuv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NickillAssignment\\Tjuv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10CAC812-E9DC-45F9-A34F-9EBF5B5CDB25}|NickillAssignment\\NickillAssignment.csproj|c:\\users\\vikas\\source\\repos\\nickillassignment\\nickillassignment\\tjuv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10CAC812-E9DC-45F9-A34F-9EBF5B5CDB25}|NickillAssignment\\NickillAssignment.csproj|solutionrelative:nickillassignment\\tjuv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vikas\\source\\repos\\NickillAssignment\\NickillAssignment\\MedBorgare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NickillAssignment\\MedBorgare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10CAC812-E9DC-45F9-A34F-9EBF5B5CDB25}|NickillAssignment\\NickillAssignment.csproj|c:\\users\\vikas\\source\\repos\\nickillassignment\\nickillassignment\\staden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10CAC812-E9DC-45F9-A34F-9EBF5B5CDB25}|NickillAssignment\\NickillAssignment.csproj|solutionrelative:nickillassignment\\staden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vikas\\source\\repos\\NickillAssignment\\NickillAssignment\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NickillAssignment\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10CAC812-E9DC-45F9-A34F-9EBF5B5CDB25}|NickillAssignment\\NickillAssignment.csproj|c:\\users\\vikas\\source\\repos\\nickillassignment\\nickillassignment\\sak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10CAC812-E9DC-45F9-A34F-9EBF5B5CDB25}|NickillAssignment\\NickillAssignment.csproj|solutionrelative:nickillassignment\\sak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vikas\\source\\repos\\NickillAssignment\\NickillAssignment\\Sak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NickillAssignment\\Sak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vikas\\source\\repos\\NickillAssignment\\NickillAssignment\\Polis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NickillAssignment\\Polis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,37 +48,47 @@
               "RelativeDocumentMoniker": "NickillAssignment\\Sak.cs",
               "ToolTip": "C:\\Users\\vikas\\source\\repos\\NickillAssignment\\NickillAssignment\\Sak.cs",
               "RelativeToolTip": "NickillAssignment\\Sak.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAqwA4AAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-25T00:37:51.524Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
+              "Title": "Polis.cs",
+              "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\NickillAssignment\\NickillAssignment\\Polis.cs",
+              "RelativeDocumentMoniker": "NickillAssignment\\Polis.cs",
+              "ToolTip": "C:\\Users\\vikas\\source\\repos\\NickillAssignment\\NickillAssignment\\Polis.cs",
+              "RelativeToolTip": "NickillAssignment\\Polis.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T01:41:30.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Staden.cs",
               "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\NickillAssignment\\NickillAssignment\\Staden.cs",
               "RelativeDocumentMoniker": "NickillAssignment\\Staden.cs",
               "ToolTip": "C:\\Users\\vikas\\source\\repos\\NickillAssignment\\NickillAssignment\\Staden.cs",
               "RelativeToolTip": "NickillAssignment\\Staden.cs",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAAACQAAABMAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T20:29:22.396Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "MedBorgare.cs",
               "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\NickillAssignment\\NickillAssignment\\MedBorgare.cs",
               "RelativeDocumentMoniker": "NickillAssignment\\MedBorgare.cs",
               "ToolTip": "C:\\Users\\vikas\\source\\repos\\NickillAssignment\\NickillAssignment\\MedBorgare.cs",
               "RelativeToolTip": "NickillAssignment\\MedBorgare.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwC4AAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADEAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T19:06:32.281Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T19:06:32.281Z"
             },
             {
               "$type": "Document",
@@ -84,36 +98,33 @@
               "RelativeDocumentMoniker": "NickillAssignment\\Person.cs",
               "ToolTip": "C:\\Users\\vikas\\source\\repos\\NickillAssignment\\NickillAssignment\\Person.cs",
               "RelativeToolTip": "NickillAssignment\\Person.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T19:04:20.698Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T19:04:20.698Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Tjuv.cs",
               "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\NickillAssignment\\NickillAssignment\\Tjuv.cs",
               "RelativeDocumentMoniker": "NickillAssignment\\Tjuv.cs",
               "ToolTip": "C:\\Users\\vikas\\source\\repos\\NickillAssignment\\NickillAssignment\\Tjuv.cs",
               "RelativeToolTip": "NickillAssignment\\Tjuv.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T19:05:32.213Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T19:05:32.213Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\NickillAssignment\\NickillAssignment\\Program.cs",
               "RelativeDocumentMoniker": "NickillAssignment\\Program.cs",
               "ToolTip": "C:\\Users\\vikas\\source\\repos\\NickillAssignment\\NickillAssignment\\Program.cs",
               "RelativeToolTip": "NickillAssignment\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBwAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T19:03:32.117Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T19:03:32.117Z"
             }
           ]
         }
